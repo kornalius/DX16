@@ -1,0 +1,1611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"log	JS - Log to console"
+			],
+			[
+				"lo",
+				"log	JS - Log to console"
+			],
+			[
+				"desc",
+				"descend"
+			],
+			[
+				"cha",
+				"charCodeAt	(ASM6502.coffee)"
+			],
+			[
+				"_hi",
+				"_hi8_"
+			],
+			[
+				"ABSO",
+				"_ABSOLUTE"
+			],
+			[
+				"ass",
+				"assembleBlock"
+			],
+			[
+				"i",
+				"img	HTML - Image"
+			],
+			[
+				"readUInt",
+				"readUInt16LE	(index.js)"
+			],
+			[
+				"read",
+				"readUInt8	(index.js)"
+			],
+			[
+				"_termb",
+				"_termbuffer"
+			],
+			[
+				"TermB",
+				"TermBufferChar"
+			],
+			[
+				"cur",
+				"cursorAt"
+			],
+			[
+				"_save",
+				"_savedStates"
+			],
+			[
+				"_layou",
+				"_layoutDOM"
+			],
+			[
+				"filter",
+				"filterManager	(WebGLRenderer.js)"
+			],
+			[
+				"_spa",
+				"_spacer_width"
+			],
+			[
+				"0x",
+				"0xFFFFFF	(app.coffee)"
+			],
+			[
+				"cache",
+				"cacheAsBitmap"
+			],
+			[
+				"_backSp",
+				"_backSpriteTexture"
+			],
+			[
+				"prototype",
+				"_.prototype.toString"
+			],
+			[
+				"oepne",
+				"openedChanged"
+			],
+			[
+				"selectedD",
+				"selectedDateChanged"
+			],
+			[
+				"selectedDate",
+				"selectedDateChanged	(app-card.html)"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"shou",
+				"should.js"
+			],
+			[
+				"descr",
+				"describe(description, specDefinitions)	jasmine.js"
+			],
+			[
+				"getComputedSt",
+				"getComputedStyle(e, t)	index.js"
+			],
+			[
+				"isOp",
+				"isOpened()	index.js"
+			],
+			[
+				"emplo",
+				"employee"
+			],
+			[
+				"addEve",
+				"addEventListener"
+			],
+			[
+				"addEv",
+				"addEventListener"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"core-l",
+				"core-list.html"
+			],
+			[
+				"paper-",
+				"paper-autogrow-textarea.html"
+			],
+			[
+				"paper-input",
+				"paper-input/"
+			],
+			[
+				"quali",
+				"qualificationsTraining"
+			],
+			[
+				"act",
+				"activityFeedback"
+			],
+			[
+				"emer",
+				"emergencyContact"
+			],
+			[
+				"employee-full-card-",
+				"employee-full-card-schedule.html"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"spac",
+				"white-space"
+			],
+			[
+				"empl",
+				"employee_panel"
+			],
+			[
+				"emp",
+				"employee_panel"
+			],
+			[
+				"scro",
+				"scrollLeft"
+			],
+			[
+				"off",
+				"offsetLeft"
+			],
+			[
+				"1C",
+				"1CDC"
+			],
+			[
+				"scr",
+				"scroll_area"
+			],
+			[
+				"clie",
+				"clientWidth"
+			],
+			[
+				"timel",
+				"timeline-card"
+			],
+			[
+				"time",
+				"timeline"
+			],
+			[
+				"con",
+				"console.	console.log()"
+			],
+			[
+				"brow",
+				"browser"
+			],
+			[
+				"sc",
+				"script	HTML/Element"
+			],
+			[
+				"im",
+				"img	Image - Placeholder"
+			],
+			[
+				"browser",
+				"browserify"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"inde",
+				"indexOf	jsArray"
+			],
+			[
+				"side_bar_re",
+				"side_bar_rename"
+			],
+			[
+				"Array",
+				"_.isArray	_object"
+			],
+			[
+				"isAr",
+				"_.isArray"
+			],
+			[
+				"cocos2",
+				"cocos2d-js/	Dir"
+			],
+			[
+				"ava",
+				"avatar"
+			],
+			[
+				"av",
+				"avatar"
+			],
+			[
+				"updat",
+				"update"
+			],
+			[
+				"br",
+				"browserify"
+			],
+			[
+				"a",
+				"assets/imgs/avatar	png"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"te",
+				"FlxText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/app.coffee",
+			"settings":
+			{
+				"buffer_size": 2600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/video.coffee",
+			"settings":
+			{
+				"buffer_size": 4827,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					""
+				],
+				[
+					"Packages/Better CoffeeScript/CoffeeScript.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/Gulp.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Gulp.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "multi",
+		"selected_items":
+		[
+			[
+				"multi",
+				"MultiEditUtils: Split selection"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Make file executable"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"prev",
+				"Markdown HTML Preview"
+			],
+			[
+				"file",
+				"Autocomplete file name"
+			],
+			[
+				"",
+				"AlignTab"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"q",
+				"ChangeQuotes"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"snip",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"new",
+				"File: New File"
+			],
+			[
+				"backu",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"qw",
+				"Project: Quick Switch Project…"
+			],
+			[
+				"line",
+				"Edit: Swap Line Up"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"back",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"backup",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"surr",
+				"Surround: surround selection"
+			],
+			[
+				"quo",
+				"ChangeQuotes"
+			],
+			[
+				"org",
+				"Preferences: orgmode Settings – Default"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"swap",
+				"Swap Selections"
+			],
+			[
+				"qu",
+				"ChangeQuotes"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"syntax test",
+				"Set Syntax: JavaScript (Test)"
+			],
+			[
+				"previe",
+				"Markdown HTML Preview"
+			],
+			[
+				"preview",
+				"Markdown HTML Preview"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"join",
+				"Edit: Join Lines"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"goto",
+				"Goto: Line…"
+			],
+			[
+				":e",
+				":e - Open file"
+			],
+			[
+				"open",
+				":e - Open file"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"expand",
+				"Expand Selection to Whitespace"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"pi",
+				"Color Picker"
+			],
+			[
+				"swapq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"quote",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pic",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"g",
+				"Gulp"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"move",
+				"Quick File Move: Move Current File"
+			],
+			[
+				"rena",
+				"ANF: Rename File"
+			],
+			[
+				"histo",
+				"Local History: Browse"
+			],
+			[
+				"gut",
+				"View: Toggle Gutter"
+			],
+			[
+				"gutt",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"gitadd",
+				"Git: Quick Add"
+			],
+			[
+				"commi",
+				"Git (SideBarGit): Commit All…"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"undo",
+				"FullUndo: Full undo"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"edit proje",
+				"Project: Edit Project"
+			],
+			[
+				"rename",
+				"Tag: Rename"
+			],
+			[
+				"update",
+				"Keymap Redefiner: Update Keymaps"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"lorem",
+				"Snippet: lorem - One sentence"
+			],
+			[
+				"lo",
+				"Snippet: lorem - Short paragraph"
+			],
+			[
+				"insp",
+				"Web Inspector"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"command",
+				"Preferences: Commands - Default"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"exec",
+				"Make file executable"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"delete",
+				"ANF: Delete File"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"termin",
+				"Open in terminal"
+			],
+			[
+				"nav",
+				"File Navigator: Open"
+			],
+			[
+				"brows",
+				"Browse Mode..."
+			],
+			[
+				"run",
+				"Run"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"csub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"cosub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"upda",
+				"Keymap Redefiner: Update Keymaps"
+			],
+			[
+				"node",
+				"SublimeREPL: Node"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"short",
+				"TabsShortcuts: Key Bindings – Default"
+			],
+			[
+				"navi",
+				"File Navigator: Open"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"cake",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"sublimegit",
+				"SublimeGit: Add License"
+			],
+			[
+				"remote",
+				"Git (SideBarGit): Remote add…"
+			],
+			[
+				"coff",
+				"Coffee: Run Script / Selection"
+			],
+			[
+				"coffee",
+				"Coffee: Run Script / Selection"
+			],
+			[
+				"npmi",
+				"npm: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippets: Open snippet"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"comm",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"n",
+				"npm: Search Packages"
+			],
+			[
+				"npm",
+				"npm: Install Package"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"igno",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"hb",
+				"Haxe: Run build"
+			],
+			[
+				"syntaxxm",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 754.0
+	},
+	"console":
+	{
+		"height": 270.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"coffee",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/hd2/sources/DX16",
+		"/Volumes/hd2/sources/DX16/app",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/core",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/core/text"
+	],
+	"file_history":
+	[
+		"/Volumes/hd2/sources/DX16/index.css",
+		"/Volumes/hd2/sources/DX16/main.coffee",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/core/graphics/Graphics.js",
+		"/Volumes/hd2/sources/DX16/index.js",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/core/renderers/webgl/WebGLRenderer.js",
+		"/Volumes/hd2/sources/DX16/index.html",
+		"/Volumes/hd2/sources/DX16/fonts/Grand9K Pixel.ttf",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/core/text/Text.js",
+		"/Volumes/hd2/sources/DX16/node_modules/pixi.js/src/extras/BitmapText.js",
+		"/Volumes/hd2/sources/DX16/app/stats.js",
+		"/Volumes/hd2/sources/DX16/app/app.coffee",
+		"/Volumes/hd2/sources/DX16/app/index.js",
+		"/Volumes/hd2/sources/DX16/app/settings.coffee",
+		"/Volumes/hd2/sources/DX16/package.json",
+		"/Volumes/hd2/sources/MX-16/app/elements/auk8-computer.html",
+		"/Volumes/hd2/sources/MX-16/app/scripts/compiler.pegjs",
+		"/Volumes/hd2/sources/MX-16/app/scripts/interpreter.coffee",
+		"/Volumes/hd2/sources/MX-16/app/index.html",
+		"/Volumes/hd2/sources/MX-16/peg.sh",
+		"/Volumes/hd2/sources/MX-16/mx-16.sublime-project",
+		"/Volumes/hd2/sources/MX-16/app/scripts/test.goo",
+		"/Volumes/hd2/sources/MX-16/app/scripts/compiler.js",
+		"/Volumes/hd2/sources/MX-16/app/scripts/hexy.js",
+		"/Users/alain/.zshrc",
+		"/Volumes/hd2/sources/MX-16/app/scripts/grammar.js",
+		"/Volumes/hd2/sources/MX-16/app/scripts/uglifyjs.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/tokentype.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/dist/acorn_loose.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/parseutil.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/index.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/node.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/tokenize.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/options.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/util.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/test/tests.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/test/codemirror-string.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/identifier.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/src/whitespace.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/dist/acorn.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/dist/acorn_csp.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/package.json",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/.bower.json",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/.npmignore",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/.travis.yml",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/bin/update_authors.sh",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/bin/build-acorn.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/bin/without_eval",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/bin/acorn",
+		"/Volumes/hd2/sources/MX-16/bower_components/acorn/README.md",
+		"/Volumes/hd2/sources/MX-16/app/scripts/packer.js",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/FileSystem Autocompletion/FilesystemAutocompletion.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/FilesystemAutocompletion.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/FileSystem Autocompletion/Default (OSX).sublime-keymap",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/CSS3/CSS3.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Volumes/hd2/sources/MX-16/bower_components/uglify-js/README.org",
+		"/Volumes/hd2/sources/MX-16/bower_components/uglify-js/README.html",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/src/command.coffee",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/documentation/index.html.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/documentation/coffee/functions.coffee",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/repl.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/register.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/index.html",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/README.md",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/lib/coffee-script/browser.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/extras/coffee-script.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/uglify-js/bin/uglifyjs",
+		"/Volumes/hd2/sources/MX-16/bower_components/uglify-js/uglify-js.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/bower.json",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/package.json",
+		"/Volumes/hd2/sources/MX-16/bower_components/coffee-script/lib/coffee-script/coffee-script.js",
+		"/Volumes/hd2/sources/MX-16/app/scripts/asm.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/asm_old.coffee",
+		"/Volumes/hd2/sources/MX-16/6502/ASM6502.coffee",
+		"/Volumes/hd2/sources/MX-16/asm.pegjs",
+		"/Volumes/hd2/sources/MX-16/FUNC:",
+		"/Volumes/hd2/sources/MX-16/expr.pegjs",
+		"/Volumes/hd2/sources/MX-16/app/scripts/app.js",
+		"/Users/alain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alain/.vimrc",
+		"/Users/alain/.vim/janus/vim/core/before/plugin/settings.vim",
+		"/Volumes/hd2/sources/MX-16/app/scripts/ram.coffee",
+		"/Volumes/hd2/sources/MX-16/bower_components/buffer/buffer.js",
+		"/Volumes/hd2/sources/MX-16/gulpfile.js",
+		"/Volumes/hd2/sources/MX-16/app/elements/about-page.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/home-page.html",
+		"/Volumes/hd2/sources/MX-16/app/scripts/OPS6502.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/CPU6502.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/ASM6502.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/6502.coffee",
+		"/Volumes/hd2/sources/MX-16/app/elements/elements.html",
+		"/Volumes/hd2/sources/MX-16/app/scripts/cpu.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/assembler.coffee",
+		"/Volumes/hd2/sources/MX-16/app/scripts/video.coffee",
+		"/Volumes/hd2/sources/MX-16/bower_components/lodash/lodash.js",
+		"/Volumes/hd2/sources/MX-16/app/scripts/riffwave.js",
+		"/Volumes/hd2/sources/MX-16/app/scripts/sfxr.js",
+		"/Volumes/hd2/sources/MX-16/app/elements/video-monitor.html",
+		"/Volumes/hd2/sources/MX-16/bower_components/pixi.js/src/core/renderers/webgl/WebGLRenderer.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/pixi.js/src/core/textures/BaseTexture.js",
+		"/Volumes/hd2/sources/MX-16/bower_components/pixi.js/src/core/display/Container.js",
+		"/Volumes/hd2/sources/MX-16/app/styles/app-theme.html",
+		"/Volumes/hd2/sources/MX-16/app/images/display.png",
+		"/Volumes/hd2/sources/MX-16/app/images/screen-frame.png",
+		"/Volumes/hd2/sources/MX-16/app/images/monitor.png",
+		"/Volumes/hd2/sources/MX-16/app/styles/main.css",
+		"/Volumes/hd2/sources/MX-16/app/elements/contact-page.html",
+		"/Volumes/hd2/sources/MX-16/bower_components/iron-icons/iron-icons.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/auk16-computer.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/auk16.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/routing.html",
+		"/Volumes/hd2/sources/MX-16/app/test/index.html",
+		"/Volumes/hd2/sources/MX-16/app/test/my-list-basic.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/my-list/my-list.html",
+		"/Volumes/hd2/sources/MX-16/bower_components/buffer/readme.md",
+		"/Volumes/hd2/sources/MX-16/app/scripts/opcodes.coffee",
+		"/Volumes/hd2/sources/MX-16/app/elements/my-greeting/my-greeting.html",
+		"/Volumes/hd2/sources/MX-16/app/elements/my-greeting/my-greeting2.html",
+		"/Volumes/hd2/sources/MX-16/dist/index.html",
+		"/Volumes/hd2/sources/MX-16/dist/styles/app-theme.html",
+		"/Volumes/hd2/sources/MX-16/dist/scripts/app.js",
+		"/Volumes/hd2/sources/MX-16/dist/elements/routing.html",
+		"/Volumes/hd2/sources/MX-16/dist/elements/elements.vulcanized.html",
+		"/Volumes/hd2/sources/MX-16/dist/elements/bootstrap/sw-toolbox-setup.js",
+		"/Volumes/hd2/sources/MX-16/dist/bower_components/platinum-sw/service-worker.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			"/Volumes/hd2/sources/swim,-node_modules/,-bower_components/,-jspm_packages/,-public/,-lib/",
+			"/Volumes/hd2/sources/swim,-bower_components/,-jspm_packages/,-public/,-lib/",
+			"/Volumes/hd2/sources/swim,-node_modules/,-bower_components/,-jspm_packages/,-public/,-lib/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED/,-node_modules/,-bower_components/,-jspm_packages/,-public/,-lib/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED/,-node_modules/,-bower_components/,-jspm_packages/,-public/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED/,-node_modules/,-bower_components/,-jspm_packages/",
+			"/Volumes/hd2/sources/lsi/garda/GSKED/,-node_modules/,-bower_components/,-jspm_packages",
+			"/Volumes/MacintoshHD/Users/alain/sources/Subsistence/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drawRect",
+			"refresh",
+			"update",
+			"refresh",
+			"palette",
+			"\n    @pal",
+			"blocks",
+			"drawTextBlock",
+			"0",
+			"that",
+			"@",
+			"stats",
+			"th",
+			"lines",
+			"print_char",
+			"6",
+			"renderer",
+			"stage",
+			"DX16",
+			"print",
+			"drawTextBlock",
+			"print",
+			"print_char",
+			"lines",
+			"palette",
+			"th",
+			"tw",
+			"stats",
+			"Stats",
+			"stats",
+			"VideoHeight",
+			"VideoWidth",
+			"rh",
+			"rw",
+			"VideoWidth",
+			"char_height",
+			"char_width",
+			"ch",
+			"cw",
+			"floor",
+			"palette.fg, palette.bg, ",
+			"dirty",
+			"line.chars[0]",
+			"trunc",
+			"Math.floor(",
+			"appendChild",
+			"BitmapText",
+			"clear",
+			"fw",
+			"Swim",
+			"usage",
+			"Swim",
+			"cson",
+			"Minish",
+			"minish",
+			"vars",
+			"@vars",
+			"@r",
+			"cmds",
+			"v",
+			"expTable",
+			"type:",
+			"\"command\"",
+			"@",
+			"\"/if\"",
+			"\"if\"",
+			"id",
+			"argument",
+			"statement",
+			"eol",
+			"block_command",
+			"block_commandd",
+			"expr",
+			"eol*",
+			"eol",
+			"__",
+			"expression",
+			"primary",
+			"lb",
+			"identifier",
+			"expression",
+			"assignment",
+			"alt",
+			"consequent",
+			"alternate",
+			"_",
+			"args",
+			"e",
+			"comment",
+			";",
+			"height",
+			"width",
+			"right",
+			"left",
+			"primary",
+			"SourceCha",
+			"integer",
+			"string_double",
+			"EscapeSequence",
+			"LineTerminator",
+			"LineContinuation",
+			"stringSingle",
+			"stringDouble",
+			"SingleStringCharacter",
+			"DoubleStringCharacter",
+			"point",
+			"function",
+			"var ",
+			"this.",
+			"AST_",
+			"_.isString(",
+			"name",
+			"base2.namespace",
+			"document",
+			"Collection",
+			"document",
+			"s",
+			"cr",
+			"Comment",
+			"cr",
+			"\\\"",
+			"\\\\\"",
+			"type",
+			"Operand",
+			"operand",
+			"Arguments",
+			"arguments",
+			"LabelDefinition"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'$1'",
+			"",
+			"\\n",
+			"\"\\n",
+			"\\n",
+			"",
+			"0x",
+			"\\n",
+			",",
+			"{\n",
+			"window.app.log",
+			"\"",
+			"\":",
+			"\", \"",
+			"",
+			"@",
+			"game.",
+			", \"$1\": ",
+			"\\\"$1\\\"",
+			"\"",
+			"www."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/app.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2360,
+								2360
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1442928216.45,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 231.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/video.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1442928314.46,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 118.0
+	},
+	"output.git-push":
+	{
+		"height": 118.0
+	},
+	"output.gulp_output":
+	{
+		"height": 198.0
+	},
+	"output.settings_documentation_panel":
+	{
+		"height": 142.0
+	},
+	"output.textarea":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "dx16.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lodash",
+				"bower_components/lodash/lodash.js"
+			],
+			[
+				"polydate",
+				"bower_components/polymer-date-picker/polymer-date-picker-positioning.html"
+			],
+			[
+				"polydatecale",
+				"bower_components/polymer-date-picker/polymer-date-picker-calendar.html"
+			],
+			[
+				"appc",
+				"app/app-card.html"
+			],
+			[
+				"app",
+				"app/app-left-panel.html"
+			],
+			[
+				"date",
+				"gsked/date-card.html"
+			],
+			[
+				"autogrow",
+				"bower_components/paper-input/paper-autogrow-textarea.html"
+			],
+			[
+				"autog",
+				"bower_components/paper-input/test/paper-autogrow-textarea.html"
+			],
+			[
+				"autogro",
+				"bower_components/paper-input/paper-autogrow-textarea.html"
+			],
+			[
+				"gulp",
+				"Gulpfile.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"page",
+				"bower_components/core-pages/core-pages.html"
+			],
+			[
+				"core-anim",
+				"bower_components/core-animated-pages/core-animated-pages.html"
+			],
+			[
+				"selecto",
+				"bower_components/core-selector/core-selector.html"
+			],
+			[
+				"tabs",
+				"bower_components/paper-tabs/paper-tabs.html"
+			],
+			[
+				"panel",
+				"elements/slide-panel.html"
+			],
+			[
+				"panels",
+				"elements/slide-panels.html"
+			],
+			[
+				"pages",
+				"bower_components/core-animated-pages/core-animated-pages.html"
+			],
+			[
+				"papto",
+				"bower_components/paper-toast/paper-toast.html"
+			],
+			[
+				"overl",
+				"bower_components/core-overlay/core-overlay.html"
+			],
+			[
+				"transi",
+				"bower_components/core-transition/core-transition-css.html"
+			],
+			[
+				"toas",
+				"elements/toast-card.html"
+			],
+			[
+				"papt",
+				"bower_components/paper-toast/paper-toast.html"
+			],
+			[
+				"menu",
+				"bower_components/core-menu/core-menu.html"
+			],
+			[
+				"dropd",
+				"bower_components/core-dropdown/core-dropdown-base.html"
+			],
+			[
+				"papermenu",
+				"bower_components/paper-dropdown-menu/paper-dropdown-menu.html"
+			],
+			[
+				"emplsear",
+				"app/employee/employee-search-card.html"
+			],
+			[
+				"coreove",
+				"bower_components/core-overlay/core-overlay.html"
+			],
+			[
+				"dialog",
+				"bower_components/paper-dialog/paper-dialog-base.html"
+			],
+			[
+				"paperdia",
+				"bower_components/paper-dialog/paper-dialog.html"
+			],
+			[
+				"base-wind",
+				"elements/base-window.html"
+			],
+			[
+				"focus",
+				"bower_components/core-focusable/core-focusable.js"
+			],
+			[
+				"iconbut",
+				"bower_components/core-icon-button/core-icon-button.html"
+			],
+			[
+				"overla",
+				"bower_components/core-overlay/core-overlay.html"
+			],
+			[
+				"dropdown",
+				"bower_components/core-dropdown/core-dropdown.html"
+			],
+			[
+				"drop",
+				"bower_components/core-dropdown/core-dropdown.html"
+			],
+			[
+				"dropdo",
+				"bower_components/core-dropdown/core-dropdown.html"
+			],
+			[
+				"paperdrop",
+				"bower_components/paper-dropdown/paper-dropdown.html"
+			],
+			[
+				"coreselec",
+				"bower_components/core-selector/core-selector.html"
+			],
+			[
+				"coremenu",
+				"bower_components/core-menu/core-menu.html"
+			],
+			[
+				"input",
+				"elements/input-card.html"
+			],
+			[
+				"vulcan",
+				"node_modules/gulp-vulcanize/node_modules/vulcanize/bin/vulcanize"
+			],
+			[
+				"polymer",
+				"bower_components/polymer/polymer.html"
+			],
+			[
+				"dargs",
+				"node_modules/gulp-ruby-sass/node_modules/dargs/dargs.js"
+			],
+			[
+				"phaser.game",
+				"phaser/docs/Phaser.Game.html"
+			],
+			[
+				"gulp-copy",
+				"node_modules/gulp-copy/index.js"
+			],
+			[
+				"gulp-load",
+				"node_modules/gulp-load/index.js"
+			],
+			[
+				"chalk",
+				"node_modules/chalk/index.js"
+			],
+			[
+				"shell",
+				"node_modules/shelljs/shell.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"commander",
+				"node_modules/commander/Readme.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/MacintoshHD/Users/alain/sources/Subsistence/Subsistence.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hello",
+				"HelloWorldLayer"
+			]
+		],
+		"width": 664.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

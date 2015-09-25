@@ -1,0 +1,48 @@
+{
+  "name": "DX16",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kornalius/DX16.git"
+  },
+  "author": "Alain Deschenes <arianesoftinc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kornalius/DX16/issues"
+  },
+  "homepage": "https://github.com/kornalius/DX16#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "color": "^0.10.1",
+    "combokeys": "^2.4.3",
+    "compute.io": "^0.106.0",
+    "cson-parser": "^1.1.1",
+    "electron-prebuilt": "^0.33.0",
+    "flat": "^1.6.0",
+    "fs-extra": "^0.24.0",
+    "fs-plus": "^2.8.1",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-util": "^3.0.6",
+    "lodash": "^3.10.1",
+    "minimist": "^1.2.0",
+    "pegjs": "^0.9.0",
+    "pixi.js": "^3.0.7",
+    "rimraf": "^2.4.3",
+    "starkjs-underscore": "0.0.1",
+    "superagent": "^1.4.0",
+    "underscore-contrib": "^0.3.0",
+    "underscore-plus": "^1.6.6",
+    "underscore.array": "^0.1.1",
+    "underscore.number": "^0.1.1",
+    "usage": "^0.7.1",
+    "uuid": "^2.0.1",
+    "wrench": "^1.5.8"
+  }
+}

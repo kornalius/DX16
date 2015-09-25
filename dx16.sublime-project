@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".gitignore",
+				"LICENSE",
+				// "README.md",
+				"dx16.sublime-project",
+				"dx16.sublime-workspace"
+			],
+			"path": "."
+		}
+	]
+}
